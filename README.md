@@ -1,2 +1,2 @@
 # rsschool-cv
-https://dequre.github.io/rsschool-cv/
+https://dequre.github.io/rsschool-cv/cv
